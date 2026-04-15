@@ -1,0 +1,14 @@
+# Datos crudos — nunca subir a GitHub
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SageMaker
+.local/
